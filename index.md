@@ -1,15 +1,24 @@
 ## Welcome to Nachiketa Chakraborty's Homepage
 
-PHYSICIST AND DATA SCIENTIST
+Physicist and Data Scientist
 Data Assimilation Research Centre, University of Reading, Whiteknights Rd, RG6 6BB, UK
-guest researcher @ Max-Planck-Institut fuer Kernphysik, Heidelberg, Sauperfercheckweg 1, 69117, DE
+Guest researcher @ Max-Planck-Institut fuer Kernphysik, Heidelberg, Sauperfercheckweg 1, 69117, DE
 +447825819260 | n.chakraborty@reading.ac.uk ; cnachi@mpi-hd.mpg.de 
 
 You can use the [editor on GitHub](https://github.com/cnachi/cnachiketa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Interests
+- Physics of Dynamical Systems
+- Time Series Modeling and Simulations 
+- Data Assimilation and Causal Inference 
+- Bayesian Inference and Model Selection
+- Stochastic Processes
+- Astrophysics and Solar Physics
+- Oceanography 
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
