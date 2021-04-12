@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Nachiketa Chakraborty's Homepage
+
+PHYSICIST AND DATA SCIENTIST
+Data Assimilation Research Centre, University of Reading, Whiteknights Rd, RG6 6BB, UK
+guest researcher @ Max-Planck-Institut fuer Kernphysik, Heidelberg, Sauperfercheckweg 1, 69117, DE
++447825819260 | n.chakraborty@reading.ac.uk ; cnachi@mpi-hd.mpg.de 
 
 You can use the [editor on GitHub](https://github.com/cnachi/cnachiketa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
