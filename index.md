@@ -3,7 +3,7 @@
 
 Physicist and Data Scientist                                                                                                                    
 Data Assimilation Research Centre, University of Reading, Whiteknights Rd, RG6 6BB, UK                                                         
-Guest researcher @ Max-Planck-Institut fuer Kernphysik, Heidelberg, Sauperfercheckweg 1, 69117, DE                          
+Guest researcher @ Max-Planck-Institut fuer Kernphysik, Heidelberg, Sauperfercheckweg 1, 69117, DE                               
 _Contact :_ +447825819260 | n.chakraborty@reading.ac.uk ; cnachi@mpi-hd.mpg.de 
                                                     
 
