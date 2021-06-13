@@ -19,11 +19,11 @@ _Contact :_ +447825819260 | n.chakraborty@reading.ac.uk ; cnachi@mpi-hd.mpg.de
 - Astrophysics and Solar Physics
 - Oceanography (recent)
 
-### Recent Publications (Full List : https://tinyurl.com/ncfulllist)
+### Recent Publications ([Full List](https://tinyurl.com/ncfulllist) )
 - “Exploring Finite-Sized Scale Invariance in Stochastic Variability with Toy Models: The OU Model”, 
 Symmetry 2020, 12(11), 1927 ; https://doi.org/10.3390/sym12111927
 - “A new Framework for Causal Discovery”, under review ; https://arxiv.org/abs/2010.02247
-- “Using Mutual Information to measure Time-lags from non-linear processes in Astronomy”, under review, preprint : [go](http://stackoverflow.com){:target="_blank"}.
+- “Using Mutual Information to measure Time-lags from non-linear processes in Astronomy”, under review, preprint : [go](https://tinyurl.com/ncfulllist).
 - ”Investigating Multiwavelength Lognormality with Simulations: Case of Mrk 421”,Galaxies, vol. 8, issue 1, p. 7 ;  https://ui.adsabs.harvard.edu/abs/2020Galax...8....7C/abstract
 
 ### Responsibilities and Membership
