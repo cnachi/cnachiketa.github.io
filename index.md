@@ -23,7 +23,8 @@ _Contact :_ +447825819260 | n.chakraborty@reading.ac.uk ; cnachi@mpi-hd.mpg.de
 - “Exploring Finite-Sized Scale Invariance in Stochastic Variability with Toy Models: The OU Model”, 
 Symmetry 2020, 12(11), 1927 ; [publication](https://doi.org/10.3390/sym12111927)
 - “A new Framework for Causal Discovery”, under review ; [publication](https://arxiv.org/abs/2010.02247)
-- “Using Mutual Information to measure Time-lags from non-linear processes in Astronomy”, under review, [publication](https://tinyurl.com/ncfulllist).
+- “Using Mutual Information to measure Time-lags from non-linear processes in Astronomy”, under review, [publication](https://www.overleaf.com/read/rfpfxbwsphpy
+)
 - ”Investigating Multiwavelength Lognormality with Simulations: Case of Mrk 421”,Galaxies, vol. 8, issue 1, p. 7 [publication](https://ui.adsabs.harvard.edu/abs/2020Galax...8....7C/abstract)
 
 ### Responsibilities and Membership
