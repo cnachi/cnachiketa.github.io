@@ -19,7 +19,7 @@ _Contact :_ +447825819260 | n.chakraborty@reading.ac.uk ; cnachi@mpi-hd.mpg.de
 - Astrophysics and Solar Physics
 - Oceanography (recent)
 
-### Recent Publications ([Link to Full List] : https://tinyurl.com/ncfulllist)
+### Recent Publications (Full List : https://tinyurl.com/ncfulllist)
 - “Exploring Finite-Sized Scale Invariance in Stochastic Variability with Toy Models: The OU Model”, 
 Symmetry 2020, 12(11), 1927 ; https://doi.org/10.3390/sym12111927
 - “A new Framework for Causal Discovery”, under review ; https://arxiv.org/abs/2010.02247
