@@ -27,7 +27,7 @@ Symmetry 2020, 12(11), 1927 ; [publication](https://doi.org/10.3390/sym12111927)
 - “Using Mutual Information to measure Time-lags from non-linear processes in Astronomy”, under review, [publication](https://arxiv.org/abs/2106.08623
 )
 - ”Investigating Multiwavelength Lognormality with Simulations: Case of Mrk 421”,Galaxies, vol. 8, issue 1, p. 7 [publication](https://ui.adsabs.harvard.edu/abs/2020Galax...8....7C/abstract)
-- “The 2014 TeV γ-Ray Flare of Mrk 501 Seen with H.E.S.S.: Temporal and Spectral Constraints on Lorentz Invariance Violation
+- “The 2014 TeV γ-Ray Flare of Mrk 501 Seen with H.E.S.S.: Temporal and Spectral Constraints on Lorentz Invariance Violation”, The Astrophysical Journal, Volume 870, Number 2, [publication](https://iopscience.iop.org/article/10.3847/1538-4357/aaf1c4)
 
 ### Responsibilities and Membership
 -  Secretary of Reading Local Group in Royal Statistical Society (RSS), Fellow of RSS
