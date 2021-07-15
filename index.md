@@ -8,15 +8,16 @@ _Contact :_ +447825819260 | n.chakraborty@reading.ac.uk ; cnachi@mpi-hd.mpg.de
                                                     
 
 
-
+### Research Summary
+I am a postdoctoral researcher at the Data Assimilation Research Centre within the Department of Meteorology, University of Reading in areas of data science and physics. I am interested in studying dynamical processes driving physical systems varying in time. Of particular interest are observations of extreme events that occur in infrequent bursts and their relation to slower, longer term variations. A great example of such events are flares that occur in the Sun, others stars and indeed in distant galaxies. I am also interested in mathematical studies of inferring cause and effect in complex, dynamical systems. Such studies require combining mathematical discplines such as time-series modeling, causal inference using information theoretic measures, bayesian inference and modeling, with understanding physics of dynamical systems, particle transport and radiative processes. 
 
 ### Research Interests
-- Physics of Dynamical Systems
+- Astrophysics and Solar Physics
 - Time Series Modeling and Simulations 
 - Data Assimilation and Causal Inference 
 - Bayesian Inference and Model Selection
 - Stochastic Processes
-- Astrophysics and Solar Physics
+- Physics and Mathematics of Dynamical Systems
 - Oceanography (recent)
 
 ### Recent Publications ([Link to Full List](https://tinyurl.com/ncfulllist) )
@@ -26,6 +27,7 @@ Symmetry 2020, 12(11), 1927 ; [publication](https://doi.org/10.3390/sym12111927)
 - “Using Mutual Information to measure Time-lags from non-linear processes in Astronomy”, under review, [publication](https://arxiv.org/abs/2106.08623
 )
 - ”Investigating Multiwavelength Lognormality with Simulations: Case of Mrk 421”,Galaxies, vol. 8, issue 1, p. 7 [publication](https://ui.adsabs.harvard.edu/abs/2020Galax...8....7C/abstract)
+- “The 2014 TeV γ-Ray Flare of Mrk 501 Seen with H.E.S.S.: Temporal and Spectral Constraints on Lorentz Invariance Violation
 
 ### Responsibilities and Membership
 -  Secretary of Reading Local Group in Royal Statistical Society (RSS), Fellow of RSS
