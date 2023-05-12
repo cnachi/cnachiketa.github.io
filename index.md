@@ -1,8 +1,9 @@
 ## Welcome to Nachiketa Chakraborty's Homepage
 <img src="https://user-images.githubusercontent.com/5979094/114390799-9dcc3800-9b8e-11eb-96dc-1174b9d06799.png" height="200" width="200">               
 
-Physicist and Data Scientist                                                                                                                    
-Data Assimilation Research Centre, University of Reading, Whiteknights Rd, RG6 6BB, UK                                                         
+Physicist and Data Scientist 
+Lecturer, Coventry University
+Guest @ Data Assimilation Research Centre, University of Reading, Whiteknights Rd, RG6 6BB, UK                                                         
 Guest researcher @ Max-Planck-Institut fuer Kernphysik, Heidelberg, Sauperfercheckweg 1, 69117, DE                               
 _Contact :_ +447825819260 | n.chakraborty@reading.ac.uk ; cnachi@mpi-hd.mpg.de 
                                                     
