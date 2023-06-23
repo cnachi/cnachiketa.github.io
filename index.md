@@ -15,7 +15,7 @@ I am a Lecturer at Coventry University in the Faculty of Engineering, Environmen
 ### Research Interests
 - Astrophysics and Solar Physics
 - Time Series Modeling and Simulations 
-- Data Assimilation and Causal Inference 
+- Causal Inference and Data Assimilation 
 - Bayesian Inference and Model Selection
 - Stochastic Processes
 - Physics and Mathematics of Dynamical Systems
