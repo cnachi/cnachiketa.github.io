@@ -23,7 +23,7 @@ I am a Lecturer at Coventry University in the Faculty of Engineering, Environmen
 
 ### Selected Publications ([Link to Full List](https://tinyurl.com/ncfulllist) )
 - “Causal Analysis of Influence of the Solar Cycle and
-Latitudinal Solar-Wind Structure on Corotation Forecasts”, Under Review, Solar Physics https://arxiv.org/abs/2301.11904 
+Latitudinal Solar-Wind Structure on Corotation Forecasts”, Under Review, Solar Physics [publication](https://arxiv.org/abs/2301.11904)
 - “Rate of Change of Large-Scale Solar-Wind Structure, Solar Physics volume 297, Article number: 83 (2022) 
 [publication](https://link.springer.com/article/10.1007/s11207-022-02006-4 )
 - “Using Mutual Information to measure Time-lags from non-linear processes in Astronomy”, Physical Review Research, 4 (1). 013036 2022 [publication](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013036  )
